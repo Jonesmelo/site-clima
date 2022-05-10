@@ -14,7 +14,7 @@ export default function Form(): JSX.Element {
                     <option value="rj">Rio de Janeiro</option>
                 </select>
 
-                <input type="submit" value="Submit"></input>
+                <input type="submit" value="Buscar"></input>
             </form>
         </div>
     )
