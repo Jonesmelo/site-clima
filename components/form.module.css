@@ -1,5 +1,5 @@
 .textos {
-    width: 100%;
+    width: auto;
     padding: 8px 20px;
     margin-top: 1rem;
     font-weight: bold;
@@ -33,7 +33,6 @@
     background-color: rgb(52, 42, 255);
     color: white;
     padding: 15px;
-
     margin: 2rem 0 0;
     border: none;
     border-radius: 20px;
@@ -47,7 +46,7 @@
   }
   
   .form {
-    width: 50%;
+    width: auto;
     border-radius: 100px;
     background-color: #bcdbff;
     padding: 1rem 0 1rem 0;
